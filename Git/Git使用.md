@@ -1,6 +1,10 @@
+# Github 安装
+
 1.拉取远程仓库文件
 
 > git pull origin master
+
+origin是我为远程仓库取得名次，以便区分仓库
 
 2.提交本地文件到缓存
 
