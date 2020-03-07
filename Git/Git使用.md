@@ -1,4 +1,14 @@
-# Github 安装
+### Github 安装
+
+要使用Github，首先我们要在系统上安装Git，下载系统对应Git并安装。
+
+- [下载 git OSX 版](http://code.google.com/p/git-osx-installer/downloads/list?can=3)
+- [下载 git Windows 版](http://msysgit.github.io/)
+- [下载 git Linux 版](http://book.git-scm.com/2_installing_git.html)
+
+### Git配置
+
+
 
 1.拉取远程仓库文件
 
